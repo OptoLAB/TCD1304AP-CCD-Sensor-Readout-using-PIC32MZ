@@ -1,0 +1,1 @@
+$(MP_EXTRA_AS_PRE)  -D__DEBUG  -c -mprocessor=$(MP_PROCESSOR_OPTION) -DXPRJ_default=$(CND_CONF)  -legacy-libc  -Wa,--defsym=__MPLAB_BUILD=1$(MP_EXTRA_AS_POST),--defsym=__ICD2RAM=1,--defsym=__MPLAB_DEBUG=1,--gdwarf-2,--defsym=__DEBUG=1 -mdfp="${DFP_DIR}"C:\Users\Jovan\Desktop\CCD V4 (USB CDC)\Firmware\TCD1304AP\firmware\src\config\default\peripheral\cache\plib_cache_pic32mz.S

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/production/TCD1304AP_PIC32MZ_EF.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>1049728</length>                 
+      <used>33748</used>                     
+      <free>1015980</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>524288</length>                 
+      <used>8972</used>                     
+      <free>515316</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
