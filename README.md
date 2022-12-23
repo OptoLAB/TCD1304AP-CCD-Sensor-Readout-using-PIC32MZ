@@ -2,7 +2,7 @@
  Demo project for TCD1304AP linear CCD array sensor using mini-32 for PIC32MZ starter board
 ## About project
 
-Project present simple readout demo for TCD TCD1304AP CCD sensor with 3648 light sensitive pixels. 
+Project present simple readout demo for TCD TCD1304AP CCD sensor with 3648 light sensitive pixels. Firmware is built around timer modules using MPLAB Harmony v3. Communication with PC is achieved using USB in CDC mode (256000 baud rate). "GET" command initiates data. "SET" command can bi used for adjusting integration time (10us-655.35ms), veritcal resolution (6, 8, 10 or 12 bits) and horizontal resolution (number of measurement points/pixels).
 
 Demo project is built using following ecosystem:
 
