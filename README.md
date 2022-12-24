@@ -16,4 +16,4 @@ Demo project is built using following ecosystem:
 
 More info can be found [here](https://www.optolab.ftn.uns.ac.rs/index.php/education/project-base/287-tcd1304ap-ccd-sensor)
 
-Demo video on [youtube](https://www.youtube.com/watch?v=OAiTZGIGcTI) 
+Demo video on [youtube](https://youtu.be/KC7FMGzbEMY) 
